@@ -1,1 +1,1 @@
-# email-sender-script
+# email-sender-script using SendGrid and RapidAPI
